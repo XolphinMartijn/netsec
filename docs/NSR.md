@@ -468,15 +468,25 @@ g. Apply recommended security patches to Certificate Systems within six (6) mont
 The CA MUST establish and maintain a change management process which is minimally:
 
   1. documented comprehensively;
+     
   2. authoritative for:
+  
     1. all personnel in Trusted Roles;
+    
     2. management of Network Equipment; and
+    
     3. management of CA Infrastructure;
+  
   3. reviewed annually;
+  
   4. updated as needed; and
+  
   5. approved:
+  
     1. with each update;
+    
     2. prior to going into effect; and
+    
     3. by personnel in applicable Trusted Roles.
 
 ##### 5.1.2
@@ -484,18 +494,27 @@ The CA MUST establish and maintain a change management process which is minimall
 The CA MUST ensure the change management process:
 
   1. enables identification, documentation, and remediation of risks associated with introducing, modifying, or removing:
+
     1. Trusted Role definitions;
+    
     2. Trusted Role appointments;
+    
     3. Network Equipment; or
+    
     4. CA Infrastructure;
-  2. addresses managing exceptions and responding to emergencies; and
-  3. incorporates procedures for change reversal where applicable.
+  
+  3. addresses managing exceptions and responding to emergencies; and
+  
+  4. incorporates procedures for change reversal where applicable.
 
 #### 5.2 Change Management Procedures 
 
 The CA MUST ensure that all changes are completed in accordance with change management processes defined in [Section 5.1](#51-change-management-documentation-requirements) for:
 
    1. Trusted Role definitions;
+   
    2. Trusted Role appointments;
+   
    3. Network Equipment; and
+   
    4. CA Infrastructure.
