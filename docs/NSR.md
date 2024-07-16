@@ -461,7 +461,14 @@ g. Apply recommended security patches to Certificate Systems within six (6) mont
 
 ### 5. Change Management
 
-#### 5.1 Change Management Documentation Requirements
+#### 5.1 Change Management Defined Assets 
+
+  1. Trusted Role definitions;
+  2. Trusted Role appointments;
+  3. Network Equipment; 
+  4. CA Infrastructure;
+
+#### 5.2 Change Management Documentation Requirements
 
 ##### 5.1.1
 
@@ -483,21 +490,12 @@ The CA MUST establish and maintain a change management process which is minimall
 
 The CA MUST ensure the change management process:
 
-  1. enables identification, documentation, and remediation of risks associated with introducing, modifying, or removing:
-     1. Trusted Role definitions;
-     2. Trusted Role appointments;
-     3. Network Equipment; or
-     4. CA Infrastructure;
+  1. enables identification, documentation, and remediation of risks associated with introducing, modifying, or removing for any defined assets in [Section 5.1](#51-change-management-defined-assets);
   2. addresses managing exceptions and responding to emergencies; and
   3. incorporates procedures for change reversal where applicable.
 
-#### 5.2 Change Management Procedures 
+#### 5.3 Change Management Procedures 
 
-The CA MUST ensure that all changes are completed in accordance with change management processes defined in [Section 5.1](#51-change-management-documentation-requirements) and recorded in accordence with [Section 5.3](#53-system-configuration-change-records) for:
+The CA MUST ensure that all changes are completed in accordance with change management processes defined in [Section 5.1](#52-change-management-documentation-requirements) and recorded in accordence with [Section 5.3](#54-system-configuration-change-records) any defined assets in [Section 5.1](#51-change-management-defined-assets).
 
-  1. Trusted Role definitions;
-  2. Trusted Role appointments;
-  3. Network Equipment; and
-  4. CA Infrastructure.
-
-#### 5.3 System Configuration Change Records
+#### 5.4 System Configuration Change Records
