@@ -493,9 +493,11 @@ The CA MUST ensure the change management process:
 
 #### 5.2 Change Management Procedures 
 
-The CA MUST ensure that all changes are completed in accordance with change management processes defined in [Section 5.1](#51-change-management-documentation-requirements) for:
+The CA MUST ensure that all changes are completed in accordance with change management processes defined in [Section 5.1](#51-change-management-documentation-requirements) and recorded in accordence with [Section 5.3](#53-system-configuration-change-records) for:
 
   1. Trusted Role definitions;
   2. Trusted Role appointments;
   3. Network Equipment; and
   4. CA Infrastructure.
+
+#### 5.3 System Configuration Change Records
